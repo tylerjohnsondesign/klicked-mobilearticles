@@ -1,0 +1,25 @@
+.klicked-mobile-column {
+    width: 12px;
+    height: 12px;
+    border-radius: 1rem;
+    margin: 10px;
+    background: #888888;
+    display: inline-block !important;
+}
+
+td.mobile_articles.column-mobile_articles {
+    text-align: center;
+}
+
+.klicked-mobile-column.klicked-mobile-column-fbia.enabled {
+    background: #3b5998;
+}
+
+.klicked-mobile-column.klicked-mobile-column-amp.enabled {
+    background: #0479c5;
+}
+
+th#mobile_articles {
+    text-align: center;
+    width: 70px;
+}
